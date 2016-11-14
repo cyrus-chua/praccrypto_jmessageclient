@@ -1,2 +1,5 @@
 # praccrypto_jmessageclient
-Python implementation of an intentionally vulnerable "secure" messaging app design for educational purposes.
+"documentation and testing" folder contains:  
+- docker images for running the server  
+- jar file for java reference client  
+- jmessage client documentation
