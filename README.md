@@ -1,5 +1,9 @@
 # praccrypto_jmessageclient
-"documentation and testing" folder contains:  
-- docker images for running the server  
-- jar file for java reference client  
-- jmessage client documentation
+jmessage-client.py: My own implementation of jmessage messaging system.  
+hw2.pdf: Description of deliverables.  
+jmessage.pdf: Documentation of jmessage specification.
+  
+Related links for project:  
+https://github.com/cyrus-chua/jmessage  
+https://github.com/cyrus-chua/jmessage-server  
+https://github.com/cyrus-chua/jmessage-client
